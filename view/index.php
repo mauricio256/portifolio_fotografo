@@ -295,7 +295,7 @@
                     <div class="col-md-3">
                         <div class="category-item ch-400">
                             <img src="img/category-9.jpg" />
-                            <a class="category-name" href="">
+                            <a class="category-name">
                                 <p>Ensaio fotográfico</p>
                             </a>
                         </div>
@@ -303,7 +303,7 @@
                     <div class="col-md-3">
                         <div class="category-item ch-400">
                             <img src="img/category-10.jpg" />
-                            <a class="category-name" href="">
+                            <a class="category-name">
                                 <p>Ensaio fotográfico</p>
                             </a>
                         </div>
@@ -311,7 +311,7 @@
                     <div class="col-md-3">
                         <div class="category-item ch-400">
                             <img src="img/category-11.jpg" />
-                            <a class="category-name" href="">
+                            <a class="category-name">
                                 <p>Aniversário de Helen Nataly</p>
                             </a>
                         </div>
