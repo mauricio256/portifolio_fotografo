@@ -1,5 +1,5 @@
 <?php
-    session_start();/// teste do git
+    session_start();
     include_once('../controller/lista_imagens.php');
     
     // registra o numero de acessos ao site e armazena em uma arquivo TXT
